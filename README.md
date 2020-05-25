@@ -9,6 +9,6 @@ GRU based network referred as "A-GRU" is explored to predict temporal distributi
 
 
 ## References:
-[1] Kratzert, F., Klotz, D., Shalev, G., Klambauer, G., Hochreiter, S., & Nearing, G. (2019). Towards learning universal, regional, and local hydrological behaviors via machine learning applied to large-sample datasets. Hydrology & Earth System Sciences, 23(12).
-[2] https://github.com/kratzert/lstm_for_pub
-[3] https://github.com/kratzert/ealstm_regional_modeling
+[1] Kratzert, F., Klotz, D., Shalev, G., Klambauer, G., Hochreiter, S., & Nearing, G. (2019). Towards learning universal, regional, and local hydrological behaviors via machine learning applied to large-sample datasets. Hydrology & Earth System Sciences, 23(12).  
+[2] https://github.com/kratzert/lstm_for_pub  
+[3] https://github.com/kratzert/ealstm_regional_modeling  
