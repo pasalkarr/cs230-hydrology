@@ -1,6 +1,6 @@
 # GRU based netowrk to predict temporal distribution of streamflow downstream of the basin
 
-Accompanying code for our "Hydrology streamflow prediction with deep learning methods" project for CS230 Spring 2020 class. This code is built upon the code repository [2].
+Accompanying code for our "Streamflow Forecasting with Deep Learning Methods" project for CS230 Spring 2020 class. This code is built upon the code repository [2].
 
 ## Content of the repository
 

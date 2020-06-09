@@ -1,4 +1,4 @@
-# Hydrology streamflow prediction with deep learning methods
+# Streamflow Forecasting with Deep Learning Methods
 This includes a work done for a project for CS230 Spring 2020 class. Deep learning models using GRU and LSTM techiques are explored to predict temporal distribution of streamflow downstream of the basin based on time-dependent hydroclimatic variables and static watershed basin attributes.
 
 ## LSTM network for Prediction in Ungauged Basins
