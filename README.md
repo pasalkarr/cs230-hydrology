@@ -8,7 +8,7 @@ LSTM based approach introduced in [1] is explored. The relevant code is used fro
 GRU based network referred as "A-GRU" is explored to predict temporal distribution of streamflow downstream of the basin. The relevant code is used from [4]. The code developed for A-GRU is present in A-GRU directory. Please refer README file from A-GRU directory for instructions to train and evaluate A-GRU model.
 
 ## References:
-[1] Frederik Kratzert, Daniel Klotz, Mathew Herrnegger, Alden K. Sampson, Sepp Hochreiter, Grey S. Nearing (2019). Toward Improved Predictions in Ungauged Basins: Exploiting the Power of Machine Learning, Water Resources Research. 
+[1] Frederik Kratzert, Daniel Klotz, Mathew Herrnegger, Alden K. Sampson, Sepp Hochreiter, Grey S. Nearing (2019). Toward Improved Predictions in Ungauged Basins: Exploiting the Power of Machine Learning, Water Resources Research.  
 [2] Kratzert, F., Klotz, D., Shalev, G., Klambauer, G., Hochreiter, S., & Nearing, G. (2019). Towards learning universal, regional, and local hydrological behaviors via machine learning applied to large-sample datasets. Hydrology & Earth System Sciences, 23(12).  
 [3] https://github.com/kratzert/lstm_for_pub  
 [4] https://github.com/kratzert/ealstm_regional_modeling  
