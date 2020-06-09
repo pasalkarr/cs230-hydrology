@@ -31,6 +31,7 @@ from papercode.datautils import (add_camels_attributes, load_attributes,
                                  rescale_features)
 from papercode.ealstm import EALSTM
 from papercode.lstm import LSTM
+from papercode.gru import GRU_JF
 from papercode.metrics import calc_nse
 from papercode.nseloss import NSELoss
 from papercode.utils import create_h5_files, get_basin_list
@@ -246,7 +247,11 @@ class Model(nn.Module):
                              hidden_size=hidden_size,
                              initial_forget_bias=initial_forget_bias)
         else:
-            self.lstm = EALSTM(input_size_dyn=input_size_dyn,
+            #self.lstm = EALSTM(input_size_dyn=input_size_dyn,
+            #                   input_size_stat=input_size_stat,
+            #                   hidden_size=hidden_size,
+            #                   initial_forget_bias=initial_forget_bias)
+            self.lstm = GRU_JF(input_size_dyn=input_size_dyn,
                                input_size_stat=input_size_stat,
                                hidden_size=hidden_size,
                                initial_forget_bias=initial_forget_bias)
