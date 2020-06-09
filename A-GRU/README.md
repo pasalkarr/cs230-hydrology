@@ -91,5 +91,5 @@ This will calculate the discharge simulation for the validation period and store
 The CAMELS data set only allows non-commercial use. Thus, the updated Maurer forcings used underlie the same [TERMS OF USE](https://www2.ucar.edu/terms-of-use) as the CAMELS data set. 
 
 ## References:
-[1] Kratzert, F., Klotz, D., Shalev, G., Klambauer, G., Hochreiter, S., & Nearing, G. (2019). Towards learning universal, regional, and local hydrological behaviors via machine learning applied to large-sample datasets. Hydrology & Earth System Sciences, 23(12).
-[2] https://github.com/kratzert/ealstm_regional_modeling
+[1] Kratzert, F., Klotz, D., Shalev, G., Klambauer, G., Hochreiter, S., & Nearing, G. (2019). Towards learning universal, regional, and local hydrological behaviors via machine learning applied to large-sample datasets. Hydrology & Earth System Sciences, 23(12). 
+[2] https://github.com/kratzert/ealstm_regional_modeling 
